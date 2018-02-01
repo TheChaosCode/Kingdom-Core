@@ -1,0 +1,12 @@
+name: KingLands
+version: 1.0
+main: me.TheChaosCode.Main
+commands:
+   kl:
+permissions:
+   kl.admin:
+   kl.create:
+   kl.add:
+   kl.sethome:
+   kl.remove:
+   kl.delrank:
